@@ -1,0 +1,84 @@
+body {
+    background-color: azure;
+    text-decoration-color: beige;
+    text-emphasis-position: above;
+}
+#contato{
+    font-size: 60px;
+    background-color: brown;
+    color: red;
+}
+h1{
+    text-decoration-color: azure;
+    font-size-adjust: auto;
+    text-align: center;
+    table-layout: fixed;
+    animation-name:  none;
+    border-bottom-width: medium;
+    background-color: lightcyan;;
+    region-break-after: avoid-column;
+    
+    
+}
+h2{
+    font-family: sans-serif;
+    font-size: 120%;
+    background-color: lightcyan;
+    font-variant-position: sub;
+}
+h4{
+    font-family: sans-serif;
+    font-size: 120%;
+    background-color:lightcyan;
+    font-variant-position: sub;
+}
+title2{
+    image-resolution: snap;
+    font-family: inherit;
+    font-size: 40;
+    align-content: center;
+    background-color: lightcyan;
+    height: inherit;
+    background-repeat: repeat;
+    font-variant-position: sub;
+
+}
+title{
+    align-self: center;
+    font-size: 40;
+    align-content: center;
+    background-color:palegoldenrod;
+    height: inherit;
+    background-repeat: repeat;
+}
+img{
+    border: 10px;
+    border-bottom-color: cadetblue;
+    background-position: center;
+    height: 5%;
+    background-size: contain;
+    backface-visibility: visible;
+    background-image: linear-gradient(i1.jpg);
+    table-layout: fixed;
+}
+h6{    
+    text-align-last: left;
+    align-items: stretch;
+    image-resolution: snap;
+    position: absolute;
+    font-size: 110%;
+    image-resolution: from-image;
+    align-items: flex-end;
+    object-position: right;
+    position: relative;
+    white-space: normal;
+    
+}
+ h7{
+    
+    font-size: 90%;
+   
+}
+h66{
+    font-size: 95%
+}
